@@ -1,6 +1,6 @@
 .
 <span style="font-weight:bold; color:rgb(112, 48, 160)">Link:</span> Animation
-Tham khảo: [[Phong cách Animation]]
+Tham khảo: [[Data/Data Pan&Beri/Notes/Phong cách Animation]]
 .
 .
 .

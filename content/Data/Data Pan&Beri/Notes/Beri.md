@@ -2,6 +2,6 @@
 | ------------- | ------------ | --------- | --------- | ------------- | -------- |
 |               |              |           |           |               |          |
 
-![[Animation Projects/Pan&Beri/Data/Images/Beri.png|300]]
+![[Data/Data Pan&Beri/Images/Beri.png|300]]
 Mô tả nhân vật
 Bảng phỏng vấn nhân vật
