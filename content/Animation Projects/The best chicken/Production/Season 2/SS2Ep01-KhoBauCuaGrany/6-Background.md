@@ -1,6 +1,6 @@
 .
 <span style="font-weight:bold; color:rgb(112, 48, 160)">Link:</span> Background
-Tham khảo: [[Phong cách Background]]
+Tham khảo: [[Data/Notes/Phong cách Background]]
 Tham khảo: [[Animation Projects/Pan&Beri/Project Setup/4-Bối cảnh|4-Bối cảnh]]
 .
 .
