@@ -2,7 +2,7 @@
 
 |          .                                            .          |       .                                            .       |
 | :--------------------------------------------------------------: | :--------------------------------------------------------: |
-| ![[Data/Images/Pan.png#center\|200]] | ![[Data/Images/Beri.png\|130]] |
+| ![[Animation Projects/Pan&Beri/Data/Images/PAn.png#center\|200]] | ![[Animation Projects/Pan&Beri/Data/Images/beri.png\|130]] |
 |                          [[Pan]]                          |                       [[Beri]]                       |
 Bộ rig (folder link)
 

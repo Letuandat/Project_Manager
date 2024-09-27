@@ -1,9 +1,9 @@
 
-[[Data/Notes/Palette màu]]
-[[content/Animation Projects/3-Nhân vật|3-Nhân vật]]
-[[Data/Notes/Phong cách Background]]
-[[Data/Notes/Abstract background]]
-[[Data/Notes/Phong cách Animation]]
+[[Palette màu]]
+[[Animation Projects/Pan&Beri/Project Setup/3-Nhân vật|3-Nhân vật]]
+[[Phong cách Background]]
+[[Abstract background]]
+[[Phong cách Animation]]
 [[Hiệu ứng]]
 
 
