@@ -1,9 +1,9 @@
 
-| **Hình xoay** | [**Biểu cảm**](file:///D:%5CPROJECTS%5CPan&Beri%5C1.Project%20Setup%5C2.Character%20Design%5CPan%5CRW%20file%5CPan%20bieu%20cam.rw) | **Poses** | **Tỉ lệ** | **Demo Anim** | [**Rigs**](file:///D:%5CPROJECTS%5CPan&Beri%5C1.Project%20Setup%5C4.Moho%20Rigs%5CPan%5Cpan%20v3.moho) |     |
-| ------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------- | --------- | ------------- | ------------------------------------------------------------------------------------------------------ | --- |
-|               |                                                                                                                                     |           |           |               |                                                                                                        |     |
+| **Hình xoay** | [**<span style="color:rgb(0, 112, 192)">Biểu cảm</span>**](file:///D:%5CPROJECTS%5CPan&Beri%5C1.Project%20Setup%5C2.Character%20Design%5CPan%5CRW%20file%5CPan%20bieu%20cam.rw) | **Poses** | **Tỉ lệ** | **Demo Anim** | [**Rigs**](file:///D:%5CPROJECTS%5CPan&Beri%5C1.Project%20Setup%5C4.Moho%20Rigs%5CPan%5Cpan%20v3.moho) |     |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------- | ------------- | ------------------------------------------------------------------------------------------------------ | --- |
+|               |                                                                                                                                                                                 |           |           |               |                                                                                                        |     |
 
-![[Data/Images/Pan.png|300]]
+![[Data/Data P&B/Images/Pan.png|300]]
 <span style="font-weight:bold; color:rgb(0, 112, 192)">Mô tả nhân vật</span>
 
 <span style="font-weight:bold; color:rgb(0, 112, 192)">Tên:</span> Pan- Lợn anh

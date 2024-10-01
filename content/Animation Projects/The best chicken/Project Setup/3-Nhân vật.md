@@ -2,7 +2,7 @@
 
 |          .                                            .          |       .                                            .       |
 | :--------------------------------------------------------------: | :--------------------------------------------------------: |
-| ![[Data/Data Pan&Beri/Images/Pan.png#center\|200]] | ![[Data/Data Pan&Beri/Images/Beri.png\|130]] |
+| ![[Data/Data P&B/Images/Pan.png#center\|200]] | ![[Data/Data P&B/Images/Beri.png\|130]] |
 |                          [[Pan]]                          |                       [[Beri]]                       |
 Bộ rig (folder link)
 

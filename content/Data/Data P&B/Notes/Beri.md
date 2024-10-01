@@ -2,6 +2,6 @@
 | ------------- | ------------ | --------- | --------- | ------------- | -------- |
 |               |              |           |           |               |          |
 
-![[Data/Images/Beri.png|300]]
+![[Data/Data P&B/Images/Beri.png|300]]
 Mô tả nhân vật
 Bảng phỏng vấn nhân vật
