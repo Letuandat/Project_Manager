@@ -1,0 +1,8 @@
+
+| **Hình xoay**                                                                                                                                                              | [<span style="color:rgb(251, 31, 255)">**Arm-Leg Order**</span>](file:///D:%5CPROJECTS%5CzShared%20Libraryz%5CRig%20Manual%5CRW%5CArm_leg%20Order.rw)                      | **Poses** | **Tỉ lệ** | **Demo Anim** | [<span style="color:rgb(251, 31, 255)">**File Rig**</span>](file:///D:%5CPROJECTS%5CPan&Beri%5C1.Project%20Setup%5C4.Moho%20Rigs%5CBeri%5CBeri.moho) |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | --------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [<span style="color:rgb(251, 31, 255)">**Biểu cảm 1**</span>](file:///D:%5CPROJECTS%5CPan&Beri%5C1.Project%20Setup%5C2.Character%20Design%5CBeri%5CRW%5CBieu%20cam%201.rw) | [<span style="color:rgb(251, 31, 255)">**Biểu cảm 2**</span>](file:///D:%5CPROJECTS%5CPan&Beri%5C1.Project%20Setup%5C2.Character%20Design%5CBeri%5CRW%5CBieu%20cam%202.rw) |           |           |               |                                                                                                                                                      |
+
+![[Library/Thư viện dự án/Thư viện các dự án/Data P&B/Images/Beri.png|300]]
+Mô tả nhân vật
+Bảng phỏng vấn nhân vật
